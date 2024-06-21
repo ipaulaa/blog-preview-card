@@ -14,7 +14,11 @@ across different devices and screen sizes. Additionally, you need to implement *
 
 ### 🖥️ Desktop
 
+![Desktop](./github/desktop.gif)
+
 ### 📱 Mobile
+
+![Mobile](./github/mobile.png)
 
 ## 🔗 Links
 
@@ -26,9 +30,28 @@ across different devices and screen sizes. Additionally, you need to implement *
 
 ## 🛠️ Built with
 
+- Semantic HTML
+- CSS Variables
+- Flexbox
+- `reset.css`
+- CSS `clamp()`
+- CSS Transitions
+
 ## 👩🏻‍🎓 What I learned
 
+<dl>
+  <dt>CSS <code>clamp()</code></dt>
+  <dd>
+    clamps a middle value within a range of values between a defined minimum
+    bound and a maximum bound.
+  </dd>
+</dl>
+
 ## 👍🏻 Useful resources
+
+- Modern [reset.css](https://elad2412.github.io/the-new-css-reset/)
+- [Clamp Calculator](https://utopia.fyi/clamp/calculator/)
+- [Frontend Mentor](https://frontendmentor.io)
 
 ## 💻 Author
 
@@ -37,5 +60,3 @@ across different devices and screen sizes. Additionally, you need to implement *
 [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-ff426e?style=for-the-badge&logoColor=white)](https://www.frontendmentor.io/profile/ipaulaa)
 &nbsp;&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1157030115348328510)
-
-## 👏🏻 Acknowledgments
