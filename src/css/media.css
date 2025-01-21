@@ -1,2 +1,13 @@
 @media screen and (min-width: 600px) {
+  .card {
+    width: 384px;
+  }
+
+  .card > img {
+    width: 336px;
+  }
+
+  h1 a:hover {
+    color: var(--yellow);
+  }
 }
