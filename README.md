@@ -22,9 +22,9 @@ Your users should be able to:
 
 ## 🔗 Links
 
-[![](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)]()&nbsp;&nbsp;
-[![](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)]()&nbsp;&nbsp;
-[![](https://img.shields.io/badge/Frontend%20Mentor-3F54A3.svg?style=for-the-badge&logo=Frontend-Mentor&logoColor=white)]()
+[![](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ipaulaa/blog-preview-card)&nbsp;&nbsp;
+[![](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)](https://ipaulaa.github.io/blog-preview-card)&nbsp;&nbsp;
+[![](https://img.shields.io/badge/Frontend%20Mentor-3F54A3.svg?style=for-the-badge&logo=Frontend-Mentor&logoColor=white)](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-with-clamp-jj3R-U3CoR)
 
 ## 👷🏻‍♀️ Built with
 
