@@ -6,7 +6,9 @@
 }
 
 body {
+  color: var(--gray-950);
   font-family: "Figtree", sans-serif;
+  line-height: 1.5;
   font-optical-sizing: auto;
 }
 
@@ -44,8 +46,23 @@ body {
   background: var(--yellow);
   border-radius: 4px;
 
-  color: var(--gray-950);
   font-size: clamp(0.75rem, 0.706rem + 0.188vw, 0.875rem);
-  line-height: 1.5;
   font-weight: 800;
+}
+
+.date {
+  font-size: clamp(0.75rem, 0.706rem + 0.188vw, 0.875rem);
+  font-weight: 500;
+}
+
+h1 {
+  margin: 12px 0;
+  font-size: clamp(1.25rem, 1.162rem + 0.376vw, 1.5rem);
+  font-weight: 800;
+}
+
+.description {
+  color: var(--gray-500);
+  font-size: clamp(0.875rem, 0.831rem + 0.188vw, 1rem);
+  font-weight: 500;
 }
