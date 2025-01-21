@@ -1,5 +1,5 @@
 :root {
-  --yellow: #F4D04E;
+  --yellow: #f4d04e;
   --gray-950: #111;
   --gray-500: #6b6b6b;
   --white: #fff;
@@ -8,4 +8,14 @@
 body {
   font-family: "Figtree", sans-serif;
   font-optical-sizing: auto;
+}
+
+.page {
+  min-width: 100vw;
+  min-height: 100vh;
+  background: var(--yellow);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
