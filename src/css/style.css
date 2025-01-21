@@ -36,3 +36,16 @@ body {
   object-fit: cover;
   border-radius: 10px;
 }
+
+.tag {
+  display: inline-block;
+  margin: 24px 0 12px;
+  padding: 4px 12px;
+  background: var(--yellow);
+  border-radius: 4px;
+
+  color: var(--gray-950);
+  font-size: clamp(0.75rem, 0.706rem + 0.188vw, 0.875rem);
+  line-height: 1.5;
+  font-weight: 800;
+}
