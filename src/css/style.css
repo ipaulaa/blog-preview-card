@@ -1,3 +1,11 @@
+:root {
+  --yellow: #F4D04E;
+  --gray-950: #111;
+  --gray-500: #6b6b6b;
+  --white: #fff;
+}
+
 body {
-  background: pink;
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
 }

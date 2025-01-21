@@ -1,5 +1,2 @@
-@media screen and (max-width: 600px) {
-  body {
-    background: skyblue;
-  }
+@media screen and (min-width: 600px) {
 }
