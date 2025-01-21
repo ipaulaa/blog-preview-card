@@ -1,6 +1,7 @@
 # Frontend Mentor - Blog preview card solution
 
-This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your
+coding skills by building realistic projects.
 
 ## 💪 Challenge
 
@@ -17,7 +18,7 @@ Your users should be able to:
 
 ## 📸 Screenshots
 
-<!-- TODO: add images -->
+![view](readme-images/view.png)
 
 ## 🔗 Links
 
@@ -27,7 +28,12 @@ Your users should be able to:
 
 ## 👷🏻‍♀️ Built with
 
-<!-- TODO: add techs -->
+- Semantic HTML
+- [New Reset CSS](https://elad2412.github.io/the-new-css-reset)
+- [CSS Clamp](https://clamp.vittoretrivi.dev)
+- CSS Variables
+- Flexbox
+- Media Queries
 
 ## 👩🏻‍💻 Author
 
