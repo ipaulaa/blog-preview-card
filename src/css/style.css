@@ -9,7 +9,6 @@ body {
   color: var(--gray-950);
   font-family: "Figtree", sans-serif;
   line-height: 1.5;
-  font-optical-sizing: auto;
 }
 
 .page {
